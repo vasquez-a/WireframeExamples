@@ -3,7 +3,7 @@ vayanna2000@gmail.com
 
 
 
-Since my experience is in UI development, this folder provides some examples of wireframes I have previously developed. This folder contains some wireframes from two separate projects done for coursework. More can be provided upon request.
+Since my experience is in UI development, this folder provides some examples of wireframes I have previously developed. This folder contains some wireframes from two separate projects done for coursework. More materials can be provided upon request.
 
 
 
@@ -15,8 +15,4 @@ A project from a Brand Identity class, where I came up with a brand design for a
 SOCIAL SCORER
 
 A project done for a software development class. The idea behind Social Scorer was exploring the hypothetical design and implementation of an application that allows users to give other users a positive or negative "social score" depending on their actions. It was a tongue-in-cheek project that (thankfully) was never meant to be seriously deployed, but the nature of the project and the fact that I was the only frontend developer/UI designer meant that I had free reign to decide the aesthetics of the project. I enjoyed the challenge of balancing the dystopian imagery with a practical interface. Like the previous project, the wireframes were designed using Figma.
-
-
-
-While this folder only contains wireframe examples, additional materials can be provided upon request.
 
